@@ -1,6 +1,6 @@
 # 🎲 Monte Carlo Simulation — NetLogo
 **Course:** BUAD 667 – Simulation by AI | University of Delaware  
-**Tools:** NetLogo, Python (Google Colab)
+**Tools:** NetLogo, Python (Google Colab), Cursor AI
 
 ---
 
